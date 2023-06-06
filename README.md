@@ -1,6 +1,10 @@
 # Domain  Class C IP Scan
 C段域名反查工具
 
+！！！   
+工具重寫版本 [SiteHunter](https://github.com/malbuffer4pt/SiteHunter)     
+！！！    
+
 前言:
 網上有很多用fofa, shadon, zoomeye做的掃描工具，
 但是我找不到可以使用的GUI C段掃描工具，大部份都是Console Application或API已經失效，
